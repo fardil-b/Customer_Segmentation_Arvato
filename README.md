@@ -18,7 +18,7 @@ In this project, I will use the data provided by Bertelsmann Arvato Analytics, I
 
 ## Methods Used <a name="method"></a>
 - Exploratory data analysis to understand the dataset
-- Feature selection and elimination using Correlation,  and Chi-Square statistical tests
+- Feature selection and elimination using Correlation 
 - Use PCA for dimensionality reduction and Kmeans Unsuperised ML Technique for Clustering
 - Using varoius Machine Learning model for prediction
 
@@ -33,7 +33,7 @@ In this project, I will use the data provided by Bertelsmann Arvato Analytics, I
 - More information about the project and the main findings of the code can be found at the post available [here](https://fbhugaloo.medium.com/customer-segmentation-and-acquisition-a-machine-learning-approach-8827b0e580b7)
 - Results of prediction can also be found on [Kaggle](https://www.kaggle.com/c/udacity-arvato-identify-customers/data)
 ## Installation <a name="installation"></a>
-- To clone the repository use: git clone https://github.com/fardil-b/Insurance-Claims-Severity-Prediction.git
+- To clone the repository use: git clone https://github.com/fardil-b/Customer_Segmentation_Arvato.git
 
 - The code should run with no issues using Python versions 3.0 and above. The additional libraries required to execute the code can be installed using `pip` with `pip install -r requirements.txt`
 

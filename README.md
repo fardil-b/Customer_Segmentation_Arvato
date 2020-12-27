@@ -23,21 +23,15 @@ In this project, I will use the data provided by Bertelsmann Arvato Analytics, I
 - Using varoius Machine Learning model for prediction
 
 ## File Descriptions <a name="files"></a>
-1. `Insurance_severity_claims.ipynb` : Notebook containing the whole project combined including EDA & Machine learning model
-2. `API` : folder containing 3 files : 
-                   1. `claimsPrediction_model_API.py` : flask API code for deployment       
-                   2. `columns_to_drop.csv`  : csv files containing features to be dropped and is used in the API file
-                   3. `tunedmodel_rf` : pickle file containing the RandomForest model used for prediction
-3. `dataset.zip` :zipped folder containing the train and test datasets
-4. `requirements.txt` : text file containing the required  libraries & packages to execute the code
+1. `Arvato Project Workbook Final.ipynb` : Notebook containing the whole project combined including EDA & Machine learning model
+2. `terms_and_conditions` : contains information about data privacy
+3. `requirements.txt` : text file containing the required  libraries & packages to execute the code
 
 
 ## Results<a name="results"></a>
-- I was able to drop the number of features from 130 to 39 and I trained a ML algorithm which work quite was and was able to make prediction
-- The prediction using the test dataset was submitted on Kaggle and a score of 3011.62 was achieved which can be improved.
-
-More information about the project and the main findings of the code can be found at the post available [here](https://fbhugaloo.medium.com/customer-segmentation-and-acquisition-a-machine-learning-approach-8827b0e580b7)
-
+- I identified clusters of relevance of future customers and identified positive responders to the mail-order campaign successfuly, 
+- More information about the project and the main findings of the code can be found at the post available [here](https://fbhugaloo.medium.com/customer-segmentation-and-acquisition-a-machine-learning-approach-8827b0e580b7)
+- Results of prediction can also be found on [Kaggle](https://www.kaggle.com/c/udacity-arvato-identify-customers/data)
 ## Installation <a name="installation"></a>
 - To clone the repository use: git clone https://github.com/fardil-b/Insurance-Claims-Severity-Prediction.git
 

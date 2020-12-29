@@ -23,7 +23,7 @@ In this project, I will use the data provided by Bertelsmann Arvato Analytics, I
 - Using varoius Machine Learning model for prediction
 
 ## File Descriptions <a name="files"></a>
-1. `Arvato Project Workbook Final.ipynb` : Notebook containing the whole project combined including EDA & Machine learning model
+1. `DSND-Arvato Project Workbook Final.ipynb` : Notebook containing the whole project combined including EDA & Machine learning model
 2. `terms_and_conditions` : contains information about data privacy
 3. `requirements.txt` : text file containing the required  libraries & packages to execute the code
 
